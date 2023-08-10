@@ -1,3 +1,1 @@
 # Solving random problems
-
-test
